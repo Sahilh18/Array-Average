@@ -1,0 +1,1 @@
+Implemented functionality to calculate the average of array elements. The code takes an array of numeric values, computes their sum, and divides by the number of elements to return the average. This feature improves data analysis capabilities by enabling quick calculation of mean values for datasets.
